@@ -13,6 +13,7 @@
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    alert("hello user123");
+	alert("hello user456");
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +21,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6d1a91362f8a6010b4125aab2799b60a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>test123</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test App" source="x_270388_test_app">3769c9fa2f822010bcfdff1df699b66b</sys_package>
@@ -28,7 +29,7 @@
         <sys_scope display_value="Test App">3769c9fa2f822010bcfdff1df699b66b</sys_scope>
         <sys_update_name>sys_script_client_6d1a91362f8a6010b4125aab2799b60a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-04 09:47:05</sys_updated_on>
+        <sys_updated_on>2021-02-05 08:52:40</sys_updated_on>
         <table>problem</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
